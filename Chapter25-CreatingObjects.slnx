@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CodingPractice\CodingPractice.csproj" />
+  <Project Path="BankAccount\BankAccount.csproj" />
+  <Project Path="GameCharacter\GameCharacter.csproj" />
+  <Project Path="ProductInventory\ProductInventory.csproj" />
+</Solution>
